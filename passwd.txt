@@ -1,0 +1,8 @@
+HowardLinkler;radiologist;$2b$12$kOa2.LnW08q336DI4R.S8e;$2b$12$kOa2.LnW08q336DI4R.S8eS8NjEp0BgGmWcYZ.2Tw3zJYUv02FDDq
+WinstonCallahan;nurse;$2b$12$GDa1QQ0kQI8m.zCFD8KQue;$2b$12$GDa1QQ0kQI8m.zCFD8KQueJVQ7EgYVdV8HnrhwDl4Au0UDYoN2qnG
+HeatherAnderson ;administrator;$2b$12$F0n6mWAjZLBcSliitqj3UO;$2b$12$F0n6mWAjZLBcSliitqj3UOCQbl4ysf4aB5I7cTaCMpFWvylqubdg.
+LeslieStewart;physician;$2b$12$H7Vuk.7yE8Bh651o9WHO7.;$2b$12$H7Vuk.7yE8Bh651o9WHO7./fSzGte7DO8JqutZejI.aLOcxeyzvNe
+HaroldZakara;technical_support;$2b$12$16W0U/o/xCXlIkJGaIXg2O;$2b$12$16W0U/o/xCXlIkJGaIXg2OiTchSq54zkBri9EjbaI0AAW6ZoC36ja
+ArjunSingh;patient;$2b$12$cgZlzpWYGTAQYNzjaQLzjO;$2b$12$cgZlzpWYGTAQYNzjaQLzjOF62oDwehR64iTKGnEM8MCeZ.r2N736q
+JamesPreston;nurse;$2b$12$UPNDR9MSvyUifdH1G2xdVO;$2b$12$UPNDR9MSvyUifdH1G2xdVOMqErJ94tuRecmWe1PIIp4K1ugl5pCJa
+KeikilanaKapahu;administrator;$2b$12$hXG2RDm3BV2cpgLoVRc3ou;$2b$12$hXG2RDm3BV2cpgLoVRc3ouQO6TOc8JPjr/8YpPOAw6pvQDUYvjTtq
